@@ -59,7 +59,17 @@ public class Main {
         int idade = 46;
         double peso = 72.7;
 
-        System.out.println("Olá meu nome é: " + nome + "Minha idade é: " + idade + "Meu peso é: " + peso);
+        System.out.println("Olá meu nome é: " + nome + " Minha idade é: " + idade + " Meu peso é: " + peso);
+
+        // Verificando se o número é par ou impar
+
+        int numero = 8;
+
+        if(numero % 2 == 0){
+            System.out.println("O número, " + numero + ",é par");
+        } else{
+            System.out.println("O número, " + numero + ",é impar!");
+        }
 
     }
 }
