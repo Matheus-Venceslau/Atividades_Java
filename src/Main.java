@@ -71,5 +71,12 @@ public class Main {
             System.out.println("O número, " + numero + ",é impar!");
         }
 
+
+/*        int myInt;
+        double myPercent = 51.9;
+        myInt = (int)myPrecent; // O número é "cortado"
+*/
+// myInt é 51
+
     }
 }
