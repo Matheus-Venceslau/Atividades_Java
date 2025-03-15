@@ -14,5 +14,9 @@ public class Main {
         System.out.println("A média do inteiro é: " + media01);
         System.out.println("A média do real é: " + media);
 
+        // Declaração de Long
+        long distancia = 149600000L;
+
+        System.out.println("A distância da Terra ao Sol é: " + distancia + " km.");
     }
 }
